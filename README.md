@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Scotch Box
 ==========
 
@@ -268,3 +269,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
  [15]: https://github.com/smdahlen/vagrant-hostmanager
  [16]: http://box.scotch.io
  [17]: http://scotch.io/bar-talk/introducing-scotch-box-a-vagrant-lamp-stack-that-just-works
+=======
+# cortex
+Slim API repository
+>>>>>>> 23a11f144d894ad3a5aa981420b739bf97e55c36
